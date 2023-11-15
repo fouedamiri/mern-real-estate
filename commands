@@ -1,0 +1,17 @@
+#CREATING A REACT PROJECT VIA VITE
+npm create vite@latest folderName
+
+#INSTALLING ALL THE DEPENDENCIES
+cd folderName
+npm i
+
+#INSTALLING REACT ROUTER DOM
+npm i react-router-dom
+
+
+#INITITIALIZE PACKAGE.JSON FILE
+npm init -y
+
+
+#INSTALLING EXPRESS
+npm i express
