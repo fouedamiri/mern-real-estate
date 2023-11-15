@@ -15,3 +15,11 @@ npm init -y
 
 #INSTALLING EXPRESS
 npm i express
+
+
+#INSTALLING MONGOOSE
+npm i mongoose
+
+#INSTALLING DOTENV
+npm i dotenv
+
